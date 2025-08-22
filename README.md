@@ -11,7 +11,7 @@
   
 ![Astronomy GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ5eWhjbGZzbWs2MjFsYzEzcHE4dzdpZjkwaWsxbWFrcmp3MnlqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3dj5M4YLaFww31V6/giphy.gif) </div>
 
-I'm 18 years old, and so in love with tecnology. I'm a very curious though, so im aways learning something! Currently studiyng Software Engineering in Universidade Vila Velha (UVV).
+I'm 18 years old, and so in love with technology. I'm a very curious though, so i'm always learning something! Currently studying Software Engineering at Universidade Vila Velha (UVV).
 
 
 ## <p align="center">What i'm learning?</p>
