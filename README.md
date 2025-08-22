@@ -4,6 +4,8 @@
 -  I’m currently learning JavaScript and Python, but aprimmoring HTML + CSS
 -  Learning English and French...
 
+#
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarsyllammassoli/tarsyllammassoli/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarsyllammassoli/tarsyllammassoli/output/github-contribution-grid-snake-dark.svg">
