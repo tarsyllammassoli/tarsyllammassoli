@@ -9,7 +9,11 @@
 
 <div align="center" height="500px" weight="500px">
   
-![dracula](https://github-readme-stats.vercel.app/api?username=tarsyllammassoli&show_icons=true&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarsyllammassoli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarsyllammassoli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 I'm 18 years old, and so in love with technology. I'm a very curious though, so i'm always learning something! Currently studying Software Engineering at Universidade Vila Velha (UVV).
 
