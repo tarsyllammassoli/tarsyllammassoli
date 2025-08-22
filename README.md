@@ -1,4 +1,4 @@
-## Hello World! I'm Társylla Massoli ^_^
+## Hey! I'm Társylla Massoli, how are u?
 
 -  I'm a Software Engineering Student
 -  I’m currently learning JavaScript and Python, but aprimmoring HTML + CSS
