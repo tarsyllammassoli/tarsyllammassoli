@@ -15,7 +15,7 @@
 </div>
 
 
-I'm 18 years old, and so in love with technology. I'm full of curious thoughts, so i'm always learning something! Currently studying Software Engineering at Universidade Vila Velha (UVV).
+I'm 19 years old, and so in love with technology. I'm full of curious thoughts, so i'm always learning something! Currently studying Software Engineering at Universidade Vila Velha (UVV).
 
 
 ## <p align="center">What i'm learning?</p>
