@@ -31,3 +31,11 @@ At the moment, im learning JavaScript, Python, HTML5, CSS3, French, and improvin
   <a href = "mailto:contatotaymassoli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/tarsyllamassoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+#
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarsyllammassoli/tarsyllammassoli/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarsyllammassoli/tarsyllammassoli/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tarsyllammassoli/tarsyllammassoli/output/pacman-contribution-graph.svg">
+</picture>
