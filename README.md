@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarsyllammassoli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+<div align="center">
 ## 👩‍💻 About Me
 
 Software Engineering student focused on building a solid foundation in programming and web development.
@@ -35,7 +35,7 @@ I have experience with control structures, algorithms, and data handling, and I'
 ## 📚 Currently Learning
 
 JavaScript • Python • SQL • Web Development • English • French
-
+</div>
 ## <p align="center">What i'm learning?</p>
 
 <p align="center">
