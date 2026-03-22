@@ -15,6 +15,7 @@
 </div>
 
 <div align="center">
+
 ## 👩‍💻 About Me
 
 Software Engineering student focused on building a solid foundation in programming and web development.
