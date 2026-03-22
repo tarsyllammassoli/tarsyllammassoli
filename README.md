@@ -15,12 +15,28 @@
 </div>
 
 
-I'm 19 years old, and so in love with technology. I'm full of curious thoughts, so i'm always learning something! Currently studying Software Engineering at Universidade Vila Velha (UVV).
+## 👩‍💻 About Me
 
+Software Engineering student focused on building a solid foundation in programming and web development.
+
+Currently developing skills in:
+- Python (logic, problem solving, data manipulation)
+- SQL (queries and database fundamentals)
+- JavaScript, HTML5, CSS3 (front-end basics)
+
+I have experience with control structures, algorithms, and data handling, and I'm continuously improving through hands-on projects.
+
+## 🚀 Goals
+
+- Evolve into a Full Stack Developer  
+- Build real-world projects integrating front-end, back-end, and databases  
+- Strengthen software engineering fundamentals  
+
+## 📚 Currently Learning
+
+JavaScript • Python • SQL • Web Development • English • French
 
 ## <p align="center">What i'm learning?</p>
-
-At the moment, im learning JavaScript, Python, HTML5, CSS3, French, and improving my english everyday ;)
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px" weight="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px" weight="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" weight="50px"/> </p>
