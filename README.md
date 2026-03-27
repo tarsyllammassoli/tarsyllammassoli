@@ -3,9 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=D98695&center=true&vCenter=true&random=false&width=700&lines=%E2%8A%B9+Welcome+to+Tay's+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
-
-## <p align="center">How’s it going? :)</p>
-
 <div align="center" height="500px" weight="500px">
   
 <div align="center">
